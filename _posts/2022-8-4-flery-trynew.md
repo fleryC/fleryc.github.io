@@ -18,7 +18,8 @@ there's my account on bilibili ^
 
 come on we got new things
 
-picute---by my ![self] ("triangle")
+picute---drawn by myself 
+![](/assets/triangle.png)
 
 try to make some codeing here uwu!
 
