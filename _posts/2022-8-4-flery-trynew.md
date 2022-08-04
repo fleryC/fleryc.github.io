@@ -19,23 +19,28 @@ there's my account on bilibili ^
 come on we got new things
 
 picute---drawn by myself 
-![](/assets/triangle.png)
+![](/assets/img/triangle.png)
 
-try to make some codeing here uwu!
+try to make some coding here uwu!
 
 ```c++
 #include<iostream>
+using namespace std;
+int main()
+{
+
+return 0;
+}
 
 ```
 
 **surely that this is a fresh website**
 
 1. nice
-2. wow
-
-- wow
+- amazing
 
 `give some color for the sentence hahaha`
 
 hahaha
 uwu
+
