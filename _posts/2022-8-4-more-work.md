@@ -6,7 +6,7 @@ feature-img: "assets/img/portfolio/cabin.png"
 img: "assets/img/portfolio/cabin.png"
 ---
 
-## Before anyother thigs, who can help me with this?!!
+## Before anyother things, who can help me with this?!!
 
 this is my survey, and which need at least 30 ppl to fill it, however 'till now there's still no 30 ppl that finished this survey.
 
