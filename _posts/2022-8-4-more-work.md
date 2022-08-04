@@ -15,7 +15,7 @@ So anyone who can help me qwq
 
 ---
 
-things below which is i'm trying to give more present by codes, don't confues about it uwu
+things below which is i'm trying to give more presentation of codes, don't confuses with it uwu
 
 --------------
 
@@ -28,7 +28,7 @@ things below which is i'm trying to give more present by codes, don't confues ab
 .
 
  ^---^
+
 ( · · )
- |.  | 
 
 $$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$

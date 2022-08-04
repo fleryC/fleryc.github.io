@@ -20,7 +20,7 @@ there's my account on bilibili ^
 
 come on we got new things
 
-picute---drawn by myself 
+picture---drawn by myself 
 ![](/assets/img/triangle.png)
 
 try to make some coding here uwu!
@@ -30,7 +30,7 @@ try to make some coding here uwu!
 using namespace std;
 int main()
 {
-
+cout<<'hi';
 return 0;
 }
 
