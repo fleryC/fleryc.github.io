@@ -10,6 +10,8 @@ hi guys, welcome to this new web~
 
 *love u~*
 
+I'll try more things to post in this personal blog, Coming soon
+
 u can find me [here](https://space.bilibili.com/1719060898?spm_id_from=333.1007.0.0)
 
 there's my account on bilibili ^
