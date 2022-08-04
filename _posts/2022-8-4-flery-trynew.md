@@ -2,6 +2,7 @@
 layout: post
 title: Coming for new things
 author: flery
+color: rgb(165,42,42)
 ---
 # This is really fun
 ## anyways
