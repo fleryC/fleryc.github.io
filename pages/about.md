@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
-# brief intor
+## brief intor
 
 this website is going to develop more things out, not really sure about when will the updates be, but gonna try more things tho. 
 
