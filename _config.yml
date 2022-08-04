@@ -13,7 +13,7 @@ header_text: Flery personnal website # Change Blog header text
 header_feature_image: assets/img/header/Flerypic.jpeg
 header_feature_image_responsive: true
 footer_text:  >
-  provide by flery as <a href="https://space.bilibili.com/1719060898?spm_id_from=333.1007.0.0">bilibili</a>
+  provide by flery from <a href="https://space.bilibili.com/1719060898?spm_id_from=333.1007.0.0">bilibili</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
