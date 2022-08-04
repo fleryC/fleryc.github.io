@@ -2,6 +2,8 @@
 layout: post
 title: New Informations...
 author: flery
+feature-img: "assets/img/portfolio/cabin.png"
+img: "assets/img/portfolio/cabin.png"
 ---
 
 ## Before anyother thigs, who can help me with this?!!
