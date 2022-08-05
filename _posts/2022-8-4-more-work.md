@@ -1,3 +1,5 @@
+![](assets/img/portfolio/cabin.png)
+
 ---
 layout: post
 title: New Informations...
