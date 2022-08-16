@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Informations...
+title: New Information...
 author: flery
 feature-img: "assets/img/portfolio/mypicture.png"
 img: "assets/img/portfolio/mypicture.png"

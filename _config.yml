@@ -9,7 +9,7 @@ avatar: assets/web logo.png                          # Empty for no avatar in na
 favicon: assets/web logo.png                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Flery's personnal website # Change Blog header text
+header_text: Flery's personal website # Change Blog header text
 header_feature_image: assets/img/header/Flerypic.jpeg
 header_feature_image_responsive: true
 footer_text:  >

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chek here for some fun(weird) websites
+title: Check here for some fun(weird) websites
 author: flery
 ---
 
