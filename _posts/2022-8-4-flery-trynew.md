@@ -31,7 +31,7 @@ try to make some coding here uwu!
 using namespace std;
 int main()
 {
-cout<<'hi';
+cout<<"hi";
 return 0;
 }
 
