@@ -14,7 +14,7 @@ author: flery
 2. https://lab.magiconch.com/nbnhhsh/
 
 
-    这个网站可以帮助搜索各种缩写
+    这个网站可以帮助搜索各种缩写, 2023update: 目前这个网站似乎需要维修，所以可能没用了
 
 3. https://www.slapkirk.com/play.html
 
